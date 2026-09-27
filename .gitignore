@@ -69,12 +69,8 @@ Thumbs.db
 **/.vscode/settings.json
 
 # ==============================================================================
-# Additional & Homework Folders
+# Additional gitignore rules for specific directories and files
 # ==============================================================================
-#homework/01-xxx/**
-
-#homework/01-xxx/code/**
-
 **/models/**
 **.db
 **.duckdb
