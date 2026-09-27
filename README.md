@@ -8,7 +8,7 @@ This repository is my learning journey, code, engineering notes, homeworks, and 
 
 ## Homework (ONGOING)
 
-* Module 1: Introduction to Machine Learning - **ON PROGRESS** (Deadline 29 September 2026 (Tue), 06:00 WIB).
+* Module 1: Introduction to Machine Learning - **DONE** -  [Solution](\homework\code\homework-01.ipynb).
 * Module 2: Machine Learning for Regression - **NOT STARTED** (Deadline 6 October 2026 (Tue), 06:00 WIB).
 * Module 3: Machine Learning for Classification - **NOT STARTED** (Deadline 13 October 2026 (Tue), 06:00 WIB).
 * Module 4: Evaluation Metrics for Classification - **NOT STARTED** (Deadline 20 October 2026 (Tue), 06:00 WIB).
