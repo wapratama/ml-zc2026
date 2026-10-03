@@ -9,15 +9,15 @@ This repository is my learning journey, code, engineering notes, homeworks, and 
 ## Homework (ONGOING)
 
 * Module 1: Introduction to Machine Learning - **DONE** -  [Solution](homework/code/homework-01.ipynb).
-* Module 2: Machine Learning for Regression - **NOT STARTED** (Deadline 6 October 2026 (Tue), 06:00 WIB).
-* Module 3: Machine Learning for Classification - **NOT STARTED** (Deadline 13 October 2026 (Tue), 06:00 WIB).
-* Module 4: Evaluation Metrics for Classification - **NOT STARTED** (Deadline 20 October 2026 (Tue), 06:00 WIB).
-* Module 5: Deploying Machine Learning Models - **NOT STARTED** (Deadline 27 October 2026 (Tue), 06:00 WIB).
-* Module 6: Decision Trees and Ensemble Learning - **NOT STARTED** (Deadline 3 November 2026 (Tue), 06:00 WIB).
+* Module 2: Machine Learning for Regression - **DONE** -  [Solution](homework/code/homework-02.ipynb).
+* Module 3: Machine Learning for Classification - **DONE** -  [Solution](homework/code/homework-03.ipynb).
+* Module 4: Evaluation Metrics for Classification - **OPEN - ON PROGRESS** (Deadline 20 October 2026 (Tue), 06:00 WIB).
+* Module 5: Deploying Machine Learning Models - **OPEN - ON PROGRESS** (Deadline 27 October 2026 (Tue), 06:00 WIB).
+* Module 6: Decision Trees and Ensemble Learning - **OPEN - ON PROGRESS** (Deadline 3 November 2026 (Tue), 06:00 WIB).
 * Midterm Project - **NOT STARTED** (Deadline 17 November 2026 (Tue), 06:00 WIB).
-* Module 8: Neural Networks and Deep Learning - **NOT STARTED** (Deadline 1 December 2026 (Tue), 06:00 WIB).
-* Module 9: Serverless Deep Learning - **NOT STARTED** (Deadline 8 December 2026 (Tue), 06:00 WIB).
-* Module 10: Kubernetes and TensorFlow Serving - **NOT STARTED** (Deadline 15 December 2026 (Tue), 06:00 WIB).
+* Module 8: Neural Networks and Deep Learning - **OPEN - ON PROGRESS** (Deadline 1 December 2026 (Tue), 06:00 WIB).
+* Module 9: Serverless Deep Learning - **OPEN - ON PROGRESS** (Deadline 8 December 2026 (Tue), 06:00 WIB).
+* Module 10: Kubernetes and TensorFlow Serving - **OPEN - ON PROGRESS** (Deadline 15 December 2026 (Tue), 06:00 WIB).
 
 ## Capstone Project
 
